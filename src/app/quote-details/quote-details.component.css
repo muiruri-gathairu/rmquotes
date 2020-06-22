@@ -1,7 +1,7 @@
 #addInfo{
    margin-top: 10px;
-   background-color: black;
-   color: teal;
+   background-color: rgb(236, 225, 225);
+   color: rgb(177, 243, 243);
    padding: 10px;
    border-radius: 15px;
 }
