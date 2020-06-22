@@ -45,6 +45,6 @@ Contact me through any of the following:
 
 
 ### License
-Click the following to acces the license page: [Click-Here] (https://github.com/muiruri-gathairu/license/blob/master/LICENSE)
+Click the following to access the license page: [Click-Here] (https://github.com/muiruri-gathairu/license/blob/master/LICENSE)
 
 Copyright (c) {2020} muiruri gathairu.
