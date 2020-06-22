@@ -45,6 +45,6 @@ Contact me through any of the following:
 
 
 ### License
-Click the following to access the license page: [Click-Here] (https://https://github.com/muiruri-gathairu/rmquotes/blob/dev/LICENSE)
+Click the following to access the license page: [Click-Here] (https://github.com/muiruri-gathairu/rmquotes/blob/dev/LICENSE)
 
 Copyright (c) {2020} muiruri gathairu.
