@@ -1,4 +1,4 @@
-# Rbquotes
+# Rmquotes
 
  This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
@@ -7,7 +7,7 @@
 
 ## Description
 
-Rbquotes , just like Facebook, is an application, created with the help of Angular, that allows the user to post a new quote as well as the author of the same. The new quote will then be displayed among the already posted quotes that were previously posted.
+Rmquotes is an application that allows the user to post a new quote as well as the author of the same. The new quote will then be displayed among the already posted quotes that were previously posted.
 
 ## Setup/Installation Requirements
 * i5 Core
