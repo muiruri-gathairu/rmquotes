@@ -1,16 +1,13 @@
-# Quotevine
+# Rbquotes
 
  This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
- Created By: Daniel Githiomi
+ Created By: Naftaly muiruri
 
-## Screenshots
-
-  ![SCREENSHOT](assets/quotevine.png)
 
 ## Description
 
-Quotevine , just like Facebook, is an application, created with the help of Angular, that allows the user to post a new quote as well as the author of the same. The new quote will then be displayed among the already posted quotes that were previously posted.
+Rbquotes , just like Facebook, is an application, created with the help of Angular, that allows the user to post a new quote as well as the author of the same. The new quote will then be displayed among the already posted quotes that were previously posted.
 
 ## Setup/Installation Requirements
 * i5 Core
@@ -33,10 +30,10 @@ It is made completly using sublime Text 3 where all the following files were cre
 No bugs to report at the moment! the system works efficiently at 100% guaranteed. Feel free to search the output on googl to ensure that it coincides exactly.
 
 ## Link to live page
-[Click-Here](https://githiomi.github.io/Quotevine/)
+[Click-Here](https://muiruri-gathairu.github.io/rmquotes/)
 
 ## Setup Instructions
-* git clone [This](https://githiomi.github.io/Quotevine/) into your terminal.  
+* git clone [This](https://muiruri-gathairu.github.io/rmquote/) into your terminal.  
 * Open the folder in your favourite editor, for example vscode ,is code . and for atom, atom . 
 * Open the index.html in your browser.
 * Enjoy quotevine app
@@ -44,11 +41,10 @@ No bugs to report at the moment! the system works efficiently at 100% guaranteed
 
 ## Support and contact details
 Contact me through any of the following:
-* Slack: danielgithiomi
-* Email: danielgithiomi@gmail.com
+* Email: muirurigathairu@gmail.com
 
 
 ### License
-Click the following to acces the license page: [Click-Here] (https://github.com/githiomi/license/blob/master/LICENSE)
+Click the following to acces the license page: [Click-Here] (https://github.com/muiruri-gathairu/license/blob/master/LICENSE)
 
-Copyright (c) {2020} Dhosio Co.
+Copyright (c) {2020} muiruri gathairu.
