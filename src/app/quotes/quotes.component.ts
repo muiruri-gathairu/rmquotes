@@ -29,11 +29,11 @@ export class QuotesComponent implements OnInit {
   }
 
   deleteQuote(index){
-    let toDelete = confirm('Are you sure you want to delete this quote? This action cannot be reversed!');
+    let toDelete = confirm('Are you sure you want to delete this quote? This action will be permanent!');
     if (toDelete){
       this.quotes.splice(index, 1);
     }else{
-      alert("Pheew! Your quote remains")
+      alert("Your quote remains")
     }
   }
   
