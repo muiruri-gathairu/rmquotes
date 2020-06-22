@@ -8,8 +8,8 @@ import { Quotes } from '../quotes/quotes';
 })
 export class PersonalDetailsComponent implements OnInit {
 
-  username = 'daniel_githiomi';
-  name = 'Daniel Githiomi'; 
+  username = 'naff';
+  name = 'naftaly karanja'; 
 
   constructor() { }
 
