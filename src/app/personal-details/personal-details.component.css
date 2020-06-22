@@ -6,7 +6,7 @@
 }
 
 #personalDetails{
-   padding: 5px;
+   padding: 15px;
 }
 
 .accHeader{
@@ -23,7 +23,7 @@
    width: 300px;
    height: 300px;
    border-radius: 100%;
-   background: url('../../assets/profilepic.jpeg');
+   background: rgb(238, 181, 181);
    background-position: center;
 }
 
